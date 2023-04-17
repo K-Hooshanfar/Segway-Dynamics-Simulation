@@ -1,3 +1,3 @@
 # Segway-Dynamics-Simulation
 
-![Result](Result/film.mp4)
+![Result](Results/film.mp4)
